@@ -9,4 +9,6 @@ The main outcome of this project, along with making the function to be able to r
 Upon completion, the average joe would dispute that the function does not really do anything, and that using the "cat" command to view the file would achieve the same result.. and that's a good thing.
 The whole point is to create functions that are system implementation ready.
 
+And, as you can see.. I have also used my previous project that now acts as a Standard library to this project. Pretty cool!
+
 cat would not work alone though.
